@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @mhrhpr
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : omid.hosseinpour1376@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: every thing will be OK 
-<!---
-mhrhpr/mhrhpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there 👋, I'm Mohammadreza hosseinipour
+
+## About Me
+- 👀 Passionate about **Data Analysis & Business Intelligence (BI)**
+- 🌱 Currently learning and working on **Power BI, SQL, Python, and data visualization projects**
+- 💻 Interested in **building dashboards, analyzing business data, and creating actionable insights**
+- 💞️ Looking to collaborate on **open-source data projects or real-world BI solutions**
+- 📫 Reach me at: omid.hosseinpour1376@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Every problem has a solution — sometimes it’s hidden in the data!  
+
+## My Skills
+- **Data Analysis:** SQL, Excel, Python (pandas, numpy)
+- **Visualization:** Power BI, Tableau
+- **BI Tools:** Power Query, DAX, Reporting
+- **Other:** Git, GitHub, basic cloud knowledge
+
+
+
